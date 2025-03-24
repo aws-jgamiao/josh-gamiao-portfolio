@@ -59,7 +59,7 @@ const About = () => {
       {/* Centered Resume Button */}
       <div className="mt-16 flex justify-center">
         <motion.a
-          href="/new-portfolio/Joshua%20Gamiao%20-%20Resume.pdf"
+          href="/josh-gamiao-portfolio/Joshua%20Gamiao%20-%20Resume.pdf"
           download="Joshua_Gamiao_Resume.pdf"
           className="inline-block px-6 py-3 text-lg font-semibold text-white bg-[#915EFF] rounded-lg shadow-md hover:bg-[#7347CC] transition-all duration-300"
           whileHover={{ scale: 1.1 }}
