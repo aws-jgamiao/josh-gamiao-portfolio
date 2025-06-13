@@ -27,6 +27,7 @@ import starbucks from "./company/starbucks.png";
 import aws from "./company/aws.png";
 import rikai from "./company/rikai.png";
 import narnoo from "./company/narnoo.png";
+import exodo from "./company/exodo.png";
 import tesla from "./company/tesla.png";
 
 import carrent from "./carrent.png";
@@ -72,4 +73,5 @@ export {
   financetracker,
   minitwitter,
   tripguide,
+  exodo
 };

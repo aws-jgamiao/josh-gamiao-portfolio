@@ -25,6 +25,7 @@ import {
   tripguide,
   threejs,
   narnoo,
+  exodo
 } from "../assets";
 
 export const navLinks = [
@@ -154,6 +155,18 @@ const experiences = [
       "Implemented responsive design strategies and guaranteed a seamless user experience across various browsers.",
     ],
   }, 
+  {
+    title: "Full Stack Web Developer",
+    company_name: "Exodo",
+    icon: exodo,
+    iconBg: "#d3e5e3",
+    date: "May 2025 - Present",
+    points: [
+      "Developed a web application using Next.js with Supabase storage.",
+      "Partnered with a freelance expat in Germany to deliver a robust application.",
+      "Implemented both UI and backend components for a cohesive full-stack solution."
+    ]
+  }
 ];
 
 const testimonials = [
